@@ -1,0 +1,31 @@
+{
+  "name": "PDF scan — Chọn vùng và sao chép chữ",
+  "short_name": "PDF OCR",
+  "description": "Đọc PDF scan cuộn liên tục, khoanh vùng và nhận dạng chữ bằng OCR ngay trên thiết bị.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
